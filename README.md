@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bhavin12300
-- 👀 I’m interested in web crawling, web scraping, image processing , object recognition , IOT devies.
+- 👀 I’m interested in web crawling, web scraping, image processing , object recognition , IOT devices.
 - 🌱 I’m currently learning AI, always leaning how to improve image processing, object recognition. 
 - 💞️ I’m looking to collaborate on  python,php , .net , c,c+++.
 - 📫 How to reach me ...
